@@ -2,4 +2,4 @@
 
 Learning python/Django.
 
-Followed the tutorial on MDN.org.
+Followed the <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django">tutorial</a> on <a href="http://mdn.org"> MDN.org</a>.
